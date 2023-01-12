@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shijin Thottiyil</h1>
-<h3 align="center">Internet taught flutter developer from India</h3>
+<h3 align="center">Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shijinthottiyil&label=Profile%20views&color=0e75b6&style=flat" alt="shijinthottiyil" /> </p>
 
